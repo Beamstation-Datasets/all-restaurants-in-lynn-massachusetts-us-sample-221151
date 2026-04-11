@@ -1,0 +1,12 @@
+{
+  "export_job_id": "5fb5ce17-4a64-47c8-8459-5e1507e57857",
+  "id_short": 221151,
+  "published_at": "2026-04-11T19:06:13Z",
+  "repo_name": "all-restaurants-in-lynn-massachusetts-us-sample-221151",
+  "sample_asset_name": "beamstation_221151_restaurants-us-ma_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/221151/beamstation_221151_restaurants-us-ma_SAMPLE_DIST.csv",
+  "sample_records": 23,
+  "sample_sha256": "58105f3bde13a2a15353d3078ff282ad36ee4e6db297001aa1db45a948051850",
+  "sample_size_bytes": 88543,
+  "total_records": 232
+}
