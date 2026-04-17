@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 232 records |
 | Free sample size | 23 records (9.91%) |
-| Last export | 2026-04-07T10:05:23.370827+00:00 |
+| Last export | 2026-04-14T09:59:37.128615+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lynn-massachusetts-us-sample-221151/releases/download/sample-latest/beamstation_221151_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
