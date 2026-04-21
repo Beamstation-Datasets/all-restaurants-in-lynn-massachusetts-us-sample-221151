@@ -1,6 +1,6 @@
 # All Restaurants in Lynn, Massachusetts, US
 
-> Free BeamStation sample export with 23 rows and masked direct-contact fields.
+> Free BeamStation sample export with 20 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `221151` |
 | Location | Lynn |
 | Category | Restaurants |
-| Full dataset size | 232 records |
-| Free sample size | 23 records (9.91%) |
-| Last export | 2026-04-14T09:59:37.128615+00:00 |
+| Full dataset size | 202 records |
+| Free sample size | 20 records (9.9%) |
+| Last export | 2026-04-21T10:02:33.313675+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lynn-massachusetts-us-sample-221151/releases/download/sample-latest/beamstation_221151_restaurants-us-ma_SAMPLE_DIST.csv) |
 
 ## What is in this sample
